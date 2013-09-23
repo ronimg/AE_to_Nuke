@@ -1,0 +1,3 @@
+Convert After Effects keyframes to Nuke keyframes.
+Hopefully supports ping pong in the future.
+Currently supports 2D transformations from AE and creates a Transform node in Nuke.
